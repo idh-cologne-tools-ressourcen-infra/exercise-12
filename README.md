@@ -23,3 +23,6 @@ The content doesn't really matter -- either take textual material from Wikipedia
 
 ## Step 3
 Download or copy the tex file into this repository, add it to git and push it to the server, as usual.
+
+## Links
+The best short introduction (and reference) can be found [here](http://mirrors.ctan.org/info/lshort/german/l2kurz.pdf). Apart from this, there is a [Wikibook about LaTeX](https://en.wikibooks.org/wiki/LaTeX), and, of course, [tex.stackexchange](https://tex.stackexchange.com).
