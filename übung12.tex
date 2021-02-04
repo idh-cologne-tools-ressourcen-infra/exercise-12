@@ -1,0 +1,56 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[german]{babel}
+\usepackage{blindtext}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{index}
+\usepackage{emoji}
+\renewcommand{\familydefault}{\sfdefault}
+\title{Übung 12 - Infrastruktur}
+\author{David Wegmann }
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\pagenumbering{roman}
+\setcounter{page}{1}
+\fancyhf{}
+
+
+\section{Test}
+\blindmathtrue
+\blindtext[3]
+\subsection{Test2}
+\blindtext[2]
+\begin{table}
+\begin{center}
+\begin{tabular}{ c c c }
+\emoji{rocket} & \emoji{rocket} & \emoji{rocket} \\ 
+GME & AMC & BB \\  
+\emoji{rocket} & \emoji{rocket} & \emoji{rocket}
+
+\end{tabular}
+\caption{To the Moooooon}
+\label{tab:Stocks only go up}
+\end{center}
+\end{table}
+\section{Stonks}
+\blindtext[4]
+\section{Test 3}
+\begin{table}[]
+    \centering
+    \begin{tabular}{c|c}
+    $\displaystyle\pi(x) = \sum_{n = 1}^\infty \frac{\mu(n)}{n} J(\sqrt[n]{x})$     & $a²+b²=c²$  
+    \end{tabular}
+    \caption{Ein paar Random Gleichungen (Formel für die Primzahlzählfunktion + Satz des Pythagoras) }
+    \label{tab:my_label}
+\end{table}
+\blindtext[5]
+\end{document}
