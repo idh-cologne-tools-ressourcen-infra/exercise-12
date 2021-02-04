@@ -1,0 +1,57 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\title{Normal distribution}
+\author{From Wikipedia, the free encyclopedia}
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Definitions}
+\subsection{Standard normal distribution}
+The simplest case of a normal distribution is known as the standard normal distribution. This is a special case when $ \mu =0$ and $ \sigma =1$, and it is described by this probability density function:
+\begin{equation}
+    \varphi(x)=\frac{e^-\frac{x^2}{2}}{\sqrt{2\pi}}
+\end{equation}
+\subsection{General normal distribution}
+Every normal distribution is a version of the standard normal distribution, whose domain has been stretched by a factor $\sigma$ (the standard deviation) and then translated by $\mu$ (the mean value): 
+\begin{equation}
+    f(x|\mu,\sigma^2)=\frac{1}{\sigma}\varphi(\frac{x-\mu}{\sigma})
+\end{equation}
+The probability density must be scaled by $1/\sigma$ so that the integral is still 1. 
+
+\section{Properties}
+The normal distribution is the only distribution whose cumulants beyond the first two (i.e., other than the mean and variance) are zero. It is also the continuous distribution with the maximum entropy for a specified mean and variance.
+\subsection{Symmetries and derivatives}
+The normal distribution with density $f(x)$ (mean $\mu$ an standard deviation $\sigma >0$) has the following properties:
+\begin{itemize}
+    \item It is symmetric around the point $x=\mu$ which is at the same time the mode, the median and the mean of the distribution.
+\item It is unimodal: its first derivative is positive for $x<\mu$ negative for $x>\mu$ and zero only at $x=\mu$
+\item The area under the curve and over the $x$-axis is unity (i.e. equal to one).
+\end{itemize}
+\subsection{Moments}
+The plain and absolute moments of a variable $X$ are the expected values of $X^{p}$ and $|X|^{p}$, respectively. If the expected value $\mu$ of $X$ is zero, these parameters are called central moments. Usually we are interested only in moments with integer order $p$. 
+
+These expressions remain valid even if $p$ is not an integer. 
+\begin{table}[]
+    \centering
+    \begin{tabular}{l|l|l}
+         1 & $\mu$ & $0$\\
+         2 & $\mu^2+\sigma^2$ & $\sigma^2$\\
+         3 & $\mu^3+3\mu\sigma^2$ & $0$\\
+         4 & $\mu^4+6\mu^2\sigma^2+3\sigma^4$ & $3\sigma^4$\\
+         5 & $\mu^5+^0\mu^3\sigma^2+15\mu\sigma^4$ & $0$\\
+         6 & $\mu ^{6}+15\mu ^{4}\sigma ^{2}+45\mu ^{2}\sigma ^{4}+15\sigma ^{6}$ & $15\sigma^6$\\
+         7 & $\displaystyle \mu ^{7}+21\mu ^{5}\sigma ^{2}+105\mu ^{3}\sigma ^{4}+105\mu \sigma ^{6}$ & $0$\\
+         8 & $\mu ^{8}+28\mu ^{6}\sigma ^{2}+210\mu ^{4}\sigma ^{4}+420\mu ^{2}\sigma ^{6}+105\sigma ^{8}$ & $105\sigma^8$\\
+    \end{tabular}
+    \caption{generalized Hermite polynomials}
+    \label{tab:my_label}
+\end{table}
+
+\end{document}
