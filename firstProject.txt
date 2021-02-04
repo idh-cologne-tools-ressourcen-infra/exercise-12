@@ -1,0 +1,61 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{ragged2e}
+
+
+
+\title{Random Article}
+\author{shosnut}
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\newpage
+\section{Introduction about the city Cairo}
+\begin{FlushLeft}
+\Huge \textbf{\emph{Cairo}}\dots \normalsize is the capital of \Large Egypt.\\
+\large Its metropolitan area, with a population of over 20 million, is the largest in Africa, in the Arab world, and the 6th-largest in the world. Cairo is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area. \linebreak
+Located near the Nile Delta, Cairo was founded in 969 AD by the Fatimid dynasty, but the land composing the present-day city was the site of ancient national capitals whose remnants remain visible in parts of Old Cairo.
+\linebreak
+Cairo has long been a centre of the region's political and cultural life, and is titled "the city of a thousand minarets" for its preponderance of Islamic architecture. 
+\end{FlushLeft}
+\subsection{History}
+\subsubsection{Initial settlements}
+\emph{The area }around present-day Cairo, especially Memphis, which was the old capital of Egypt, had long been a focal point of Ancient Egypt due to its strategic location just upstream from the Nile Delta. However, the origins of the modern city are generally traced back to a series of settlements in the first millennium. Around the turn of the 4th century, as Memphis was continuing to decline in importance,\footnote{das ist ein Test} the Romans established a fortress town along the east bank of the Nile. This fortress, known as Babylon, was the nucleus of the Roman and then the Byzantine city and is the oldest structure in the city today. It is also situated at the nucleus of the Coptic Orthodox community, which separated from the Roman and Byzantine churches in the late 4th century. Many of Cairo's oldest Coptic churches, including the Hanging Church, are located along the fortress walls in a section of the city known as Coptic Cairo.
+\subsubsection{Foundation and expansion}
+\emph{In 969}, the Fatimids conquered Egypt from their base in Ifriqiya and a new fortified city northeast of Fustat was established. It took four years to build the city, initially known as al-Mansūriyyah\footnote{heh}, which was to serve as the new capital of the caliphate. During that time, the construction of the al-Azhar Mosque was commissioned by order of the Caliph, which developed into the third-oldest university in the world. Cairo would eventually become a centre of learning, with the library of Cairo containing hundreds of thousands of books.\footnote{hihi} When Caliph al-Mu'izz li Din Allah arrived from the old Fatimid capital of Mahdia in Tunisia in 973, he gave the city its present name, Qāhirat al-Mu'izz ("The Vanquisher of al-Mu'izz").
+
+
+
+\newpage
+\section{Formel}
+In this section I will show you some math formulas $\heartsuit$ \\ \huge $\Rightarrow$ 
+\large \newline \begin{equation}
+c = \sqrt{ a^{2}+b^{2} }
+\end{equation}
+\subsection{Squareroots}
+\[\sqrt[5]{25}=5\] \center because \[ \qquad 5^{2}=25\]
+
+\bigskip
+\section{Tabelle}
+\begin{FlushLeft}
+
+\begin{tabular}[t]{rl}
+\toprule
+\large \textbf{ Name} & \large \textbf{Number} \\
+\midrule 
+Sibi & 39942 \\
+Maja & 59044 \\
+Jens & 12400 \\
+Benjamin & 12327 \\
+\bottomrule
+
+\end{tabular}
+
+\end{FlushLeft}
+\end{document}
