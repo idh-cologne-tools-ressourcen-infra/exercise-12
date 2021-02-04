@@ -1,0 +1,107 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf840
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \\documentclass\{scrartcl\} \
+\\usepackage[utf8]\{inputenc\} \
+\\usepackage[T1]\{fontenc\}\
+\\usepackage\{babel\}\
+\\date\{04.02.2020\} \
+\\author\{Cindy Hartmann\}\
+\\title\{Winterliche Lichttherapie bei saisonaler Depression\}\
+\
+\
+\\begin\{document\} \
+\\maketitle \
+\\tableofcontents\
+\
+\\newpage\
+\
+\\section\{\'84Winterdepression\'93- SAD\} \
+Vancouver \'96 Eine t\'e4gliche Lichttherapie in der dunklen Jahreszeit, die derzeit nur f\'fcr Patienten mit saisonal abh\'e4ngigen Stimmungsst\'f6rungen (SAD, \'84Winterdepression\'93) empfohlen wird, hat in einer randomisierten klinischen Studie auch bei der von der Jahreszeit unabh\'e4ngigen Major-Depression h\'e4ufig eine Remission erzielt. Die Ergebnisse waren laut der Publikation in JAMA Psychiatry (2015; doi: 10.1001/jamapsychiatry.2015.2235) sogar einer medikament\'f6sen Standardtherapie \'fcberlegen, die alleine keine bessere Wirkung erzielte als Placebo. \\\\\
+\
+Die Wirksamkeit der Lichttherapie wurde bislang vor allem bei SAD untersucht, die als relativ milde Variante der Depression eingestuft wird. In klinischen Studien erzielt sie Responseraten von 60 bis 90 Prozent, wenn sie konsequent durchgef\'fchrt wird. Die Wirkung wird dabei vor allem auf die Synchronisierung des Tag-Nacht-Rhythmus zur\'fcckgef\'fchrt.\\\\\
+\
+Auch Patienten mit Major-Depression haben hier h\'e4ufig eine St\'f6rung, was das Team um Raymond Lam von der University of British Columbia in Vancouver veranlasste, die Wirksamkeit auch in dieser Indikation zu untersuchen. Die \'84Light, Ion, and Fluoxetine Efficacy in Depression\'93 oder LIFE-Studie ist die erste randomisierte Studie zur Lichttherapie bei der Major-Depression.\\\\\
+\
+Alle 122 Teilnehmer litten an einer mittelschweren bis schweren Depression mit mindes tens 20 Punkten auf der Hamilton Depression Rating Scale (Ham-D). Sie wurden zum einen auf eine Therapie mit dem selektiven Serotonin-Wiederaufnahmehemmer Fluoxetin oder mit Placebo randomisiert. Eine zweite Randomisierung loste die Patienten auf eine t\'e4gliche Lichttherapie oder eine Pseudo-Behandlung mit einem Ionenstrahler, der allerdings nur einen Piepton abgab. Die echte Lichttherapie bestand aus einer fl\'e4chigen LED-Lampe, die wei\'dfes Licht (10.000 Lux) abstrahlt. Die Patienten sollten die Therapie jeden Morgen nach dem Aufstehen f\'fcr 30 Minuten durchf\'fchren.\\\\\
+\
+Prim\'e4rer Endpunkt war die Verbesserung in der Montgomery\'96\'c5sberg Depression Rating Scale (MADRS), einem Zusatzfragebogen zum Ham-D, der auch kleinere Verbesserungen bei der Major-Depresssion erkennen kann. \
+\
+\'dcberraschenderweise erzielte Fluoxetin (20 mg/die) im Verlauf der Therapie nur eine schwache Wirkung. Der MADRS besserte sich gerade einmal um median 8,8 Punkte und erzielte damit keine signifikant bessere Wirkung als Placebo, das den MADRS um 6,5 Punkte senkte. Deutlich st\'e4rker war der Effekt der Lichttherapie, die allein den MADRS um 13,4 Punkte senkte, in Kombination mit dem SSRI sogar eine Verbesserung um 16,9 Punkte erzielte. Mit der Lichttherapie erreichten insgesamt 50,0 Prozent (ohne SSRI) und 75,9 Prozent (mit SSRI) der Patienten eine vollst\'e4ndige Remission. Unter Placebo war dies nur bei 33,3 Prozent und bei 29,0 Prozent der Fall.\\\\\
+\
+\\subsection\{Wirkung von Lichttherapie gilt als erwiesen\} \
+Lichttherapie gilt als etabliertes und wirksames Mittel zur Behandlung saisonaler Depressionen, das haben schon zahlreiche Studien belegen k\'f6nnen. Eine aktuelle Studie wurde 2019 im Auftrag des "Instituts f\'fcr Qualit\'e4t und Wirtschaftlichkeit im Gesundheitswesen" (IQWiG) von Wissenschaftlern der Donau-Universit\'e4t Krems durchgef\'fchrt. Die Wissenschaftler untersuchten 21 Studien zur Lichttherapie mit insgesamt 1.441 erwachsenen Teilnehmern. Das Fazit: "Die Untersuchung zeigt einen Hinweis auf einen kurzfristigen Nutzen von Lichttherapie mittels Lichtlampen im Vergleich zu Placebo im Hinblick auf depressionsbezogene Symptome".\\\\\
+\
+Auch der kritische IGeL-Monitor des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen e.V. (MDS) bewertet die Lichttherapie bei saisonal depressiver St\'f6rung als "tendenziell positiv".\\\\\
+\
+Wichtig zu wissen: Tageslichtlampen, sogenannte Lichtduschen, eignen sich nur bei leichten depressiven Verstimmungen. Wer unter mittelschweren bis schweren Depressionen leidet, sollte diese nicht in Eigentherapie behandeln, sondern unbedingt einen Arzt aufsuchen!\\\\\
+\
+\\subsubsection\{Weshalb Licht gl\'fccklich macht\} \
+Dass sich viele Menschen in der dunklen Jahreszeit freudlos f\'fchlen, liegt am fehlenden Tages- und Sonnenlicht: An Wintertagen scheint die Sonne halb so lang wie an Sommertagen. Zudem scheint sie weniger hell.\\\\\
+\
+Bekommt der K\'f6rper zu wenig Tageslicht, ger\'e4t der Hormonhaushalt durcheinander. Wenn die Zahl der Sonnenstunden sinkt, produziert unser K\'f6rper mehr Melatonin (das sogenannte "Schlafhormon"). Wir f\'fchlen uns energielos, sind st\'e4ndig m\'fcde und schlapp. Gleichzeitig nimmt der Serotonin-Spiegel ab, denn unser K\'f6rper wandelt Serotonin in Melatonin um. Serotonin, das sogenannte "Gl\'fcckshormon", sorgt daf\'fcr, dass wir uns wach, ausgeschlafen und voller Energie f\'fchlen.\\\\\
+\
+Bei Menschen, die unter Winterdepression leiden, ist das Gegenteil der Fall. Typisch f\'fcr die Winterdepression (auch SAD, "Seasonal Affective Disorder"): Im Fr\'fchling verschwindet sie ganz von selbst wieder. Dass wir bei einer Winterdepression vermehrt zu Schokolade greifen, hat einen einfachen Grund: Schokolade enth\'e4lt die Aminos\'e4ure Tryptophan. Wandert sie ins Gehirn, steigt der Serotoninspiegel und damit auch die Stimmung. \\\\\
+\
+\
+\
+\
+\\section\{Warum Mathematik Gl\'fcchlich macht\}\
+\\subsubsection\{Beschreibung\}\
+\
+Wie die Liebe und die Musik hat Mathematik die Gabe, Menschen gl\'fccklich zu machen. Angesichts ihrer oft kargen Darreichungsform eine k\'fchne Behauptung? Daf\'fcr, dass sie dennoch stimmt, tritt der Mathematiker und Mathematik\'96Belletrist Christian Hesse in seinem neuen Buch den Beweis an \'96 in 151 erstaunlichen und gewitzten Geschichten.\
+Warum haben Tiger Streifen, Dalmatiner Punkte und Elefanten nichts von beidem? Warum haben manche Heuschreckenarten Lebenszyklen, deren L\'e4nge immer Primzahlen sind? Wie ist es m\'f6glich festzustellen, dass Homer die Odyssee nicht geschrieben hat? Diese und viele andere Fragen kann die Mathematik beantworten, und wie sie dabei vorgeht und vor allem, wie der Autor dieses Vorgehen darstellt, das verfolgt der Leser mit Faszination, bisweilen Erstaunen und immer mit Vergn\'fcgen.\\\\\
+\
+\
+\\subsection\{Mathematische Formel\}\
+\
+Seien $a$ und $b$ die Katheten und $c$ die Hypotenuse,\
+dann gilt\
+\\begin\{equation\}\
+\\label\{eq:1\}\
+c = \\sqrt\{ a^\{2\}+b^\{2\} \} \\end\{equation\}\
+\
+Die "equation" \\ref\{eq:1\} zeigt den Satz des Pythagoras.\
+\
+\\newpage\
+\
+\
+\
+\\section\{Symptome einer Herbst-Winter-Depression\}\
+\\subsection\{Tabelle\} \
+\\begin\{center\}\
+\\begin\{tabular\} \{ |c | c |\} \
+\
+\
+ \\hline\
+ Symptome: & gedr\'fcckte Stimmung \\\\ \
+           & Antriebslosigkeit \\\\ \
+           & geringere Freude \\\\ \
+           & Hei\'dfhunger auf Kohlenhydrate und S\'fc\'dfes \\\\ \
+           & erh\'f6htes Schlafbed\'fcrfnis \\\\ \
+           & Gewichtzunahme \\\\ \
+ \\hline\
+\
+\
+\\end\{tabular\}\
+\\end\{center\}\
+\
+\
+\
+\\newpage\
+\\section\{Quellen\}\
+\
+https://www.oekotest.de/gesundheit-medikamente/Studien-So-hilft-Lichttherapie-gegen-Winterblues-111001.\\\\\
+ html-https://www.overleaf.com/learn/latex/Tables\\\\\
+https://ftp.tu-chemnitz.de/pub/tex/info/lshort/german/l2kurz.pdf\
+\
+\
+\
+\
+\
+\
+\\end\{document\}}
