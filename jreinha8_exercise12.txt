@@ -1,0 +1,51 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\title{Exercise12}
+\author{jreinha8 }
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+\section{Albert Einstein}
+Albert Einstein (geboren am 14. März 1879 in Ulm, Württemberg, Deutsches Reich; gestorben am 18. April 1955 in Princeton, New Jersey, Vereinigte Staaten) war ein deutscher Physiker mit Schweizer und US-amerikanischer Staatsbürgerschaft. Er gilt als einer der bedeutendsten theoretischen Physiker der Wissenschaftsgeschichte[1] und weltweit als bekanntester Wissenschaftler der Neuzeit. Seine Forschungen zur Struktur von Materie, Raum und Zeit sowie zum Wesen der Gravitation veränderten maßgeblich das zuvor geltende newtonsche Weltbild. 
+
+\subsection{Leben}
+Die Eltern Hermann Einstein (30. August 1847 bis 10. Oktober 1902) und Pauline Einstein, geb. Koch (8. Februar 1858 bis 20. Februar 1920, geboren in Cannstatt, Württemberg; gestorben in Berlin), entstammten beide jüdischen Familien, die schon seit Jahrhunderten im schwäbischen Raum ansässig waren. Die Großeltern mütterlicherseits hatten ihren Nachnamen Dörzbacher in Koch geändert. Die Großeltern väterlicherseits trugen noch traditionell jüdische Vornamen, Abraham und Hindel Einstein. Mit den Eltern Albert Einsteins änderte sich das.
+
+Sein Vater Hermann Einstein stammte aus der oberschwäbischen Kleinstadt Buchau, in der es seit dem Mittelalter innerhalb des Territoriums des freiweltlichen Damenstifts Buchau eine bedeutende jüdische Gemeinde gab (siehe auch: Familie Einstein in Bad Buchau). Der erste namentlich nachgewiesene Vorfahre Albert Einsteins, ein aus dem Bodenseeraum stammender Pferde- und Tuchhändler namens Baruch Moses Ainstein, wurde im 17. Jahrhundert in die Gemeinde aufgenommen.[3] Auf den Grabsteinen des Buchauer jüdischen Friedhofs sind noch heute die Namen vieler Verwandter Einsteins zu finden; so auch der des letzten Juden der Stadt, Siegbert Einstein, eines Großneffen des Physikers, der das KZ Theresienstadt überlebt hatte und zeitweise zweiter Bürgermeister Buchaus war.
+
+\subsection{Studium in Zürich}
+Nachdem Einstein die Matura an der Kantonsschule Aarau nachgeholt hatte, nahm er mit Beginn des akademischen Jahres 1896 sein Studium an der Schule für Fachlehrer des Polytechnikums Zürich (heute ETH Zürich) auf.[17]
+
+Es lag Einstein nicht, nur formales Wissen zu erlernen, vielmehr regten ihn theoretisch-physikalische Denkprojekte an. Mit seiner Eigenwilligkeit eckte er oftmals an. Ihm war die abstrakte mathematische Ausbildung ein Dorn im Auge, er erachtete sie als für den problemorientierten Physiker hinderlich. In den Vorlesungen fiel er dem lehrenden Professor vor allem durch seine Abwesenheit auf. Für die Prüfungen verließ er sich auf die Mitschriften seiner Kommilitonen. Diese Ignoranz verstellte ihm nicht nur Karrierechancen an seiner Hochschule, er bereute sie spätestens bei der Entwicklung der mathematisch höchst anspruchsvollen allgemeinen Relativitätstheorie. Sein Studienkollege Marcel Grossmann war ihm später dabei noch von großer Hilfe.
+
+Einstein verließ die Hochschule 1900 mit einem Diplom als Fachlehrer in mathematischer Richtung, worunter auch die Physik fiel. Seine Diplomarbeit in Physik fertigte er bei Heinrich Friedrich Weber an. Es gelang ihm aber nicht, nach dem Studium eine Anstellung als Assistent am Polytechnikum zu erhalten. 
+
+\section{Naturwissenschaftliche Entdeckungen}
+\subsection{Relativitätstheorie}
+Albert Einstein begründete die physikalische Relativitätstheorie, die er (nach wichtigen Vorarbeiten von Hendrik Antoon Lorentz und Henri Poincaré) 1905 als spezielle Relativitätstheorie und erstmals 1915 als allgemeine Relativitätstheorie veröffentlichte. Einsteins Werke führten zu einer Revolution der Physik; die spezielle und die allgemeine Relativitätstheorie gehören bis heute zu den Grundpfeilern der modernen Physik. Zur einfacheren Formulierung führte er 1916 die einsteinsche Summenkonvention ein, durch die Tensorprodukte kompakter geschrieben werden können. 
+
+\subsection{Bose-Einstein-Kondensation}
+1924 sagte er zusammen mit Satyendranath Bose einen quantenmechanischen, aber dennoch makroskopischen Materiezustand voraus, der bei extrem tiefen Temperaturen eintreten sollte. Der später als Bose-Einstein-Kondensation bezeichnete Phasenübergang konnte 1995 erstmals im Labor beobachtet werden. Im August 2005 wurde an der Universität Leiden ein 16-seitiges Manuskript von Einstein entdeckt, das sich mit seiner letzten großen Entdeckung, der Bose-Einstein-Kondensation, beschäftigt.
+
+\section{Einstellung zur Religion}
+Einstein entstammt einer jüdischen Familie. Bei seiner Verzichtserklärung auf die deutsche Staatsbürgerschaft im Jahre 1896 vermerkte sein Vater jedoch, vermutlich auf seinen Wunsch, „keine religiöse Zugehörigkeit“, was er in den folgenden zwei Jahrzehnten mehrmals wiederholte.[119]
+
+Bis ins 21. Jahrhundert gibt es verschiedene Interpretationen zu Einsteins Haltung zur Religion, da er sich vielfach widersprüchlich äußerte, unter anderem mit dem Aphorismus: „Wissenschaft ohne Religion ist lahm, Religion ohne Wissenschaft ist blind.“[120] Im Jahre 2008 wurde jedoch ein bis dahin in Privatbesitz befindlicher Brief von Einstein an den Esoteriker Erich Gutkind veröffentlicht, den er am 3. Januar 1954 verfasst hatte. In diesem bezieht sich Einstein auf seine nichtreligiöse Haltung.[121] Er distanziert sich dabei mit deutlichen Worten von der biblischen Vorstellung eines persönlichen Gottes, die er als „kindlichen Aberglauben“ bezeichnet: 
+\section{Satz des Pythagoras:}
+\begin{equation}c =\sqrt{ a^{2}+b^{2} }\end{equation}
+
+\section{Daten}
+\begin{tabular}{|r|l|}
+  \hline
+  Geburt &  14. März 1879 in Ulm, Württemberg, Deutsches Reich\\
+  Tod &  18. April 1955 in Princeton, New Jersey, Vereinigte Staaten \\ \cline{2-2}
+  Frau &  Mileva Marić \\
+  \hline 
+\end{tabular}
+
+\end{document}
