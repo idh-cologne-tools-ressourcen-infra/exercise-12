@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Cheerleading}
+\author{vanessastasch1 }
+\date{February 2021}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\section{Dolphins Cheerleader Krefeld}
+
+Genau 7438,36 Kilometer Luftlinie von Krefeld entfernt haben die Cheerleader des SC Bayer Uerdingen einen Riesenerfolg verbucht. Bei der Weltmeisterschaft im Cheerleading der International All Star Federation (IASF) kämpfte sich das Team Dolphins Allstars vom siebten Platz im Halbfinale auf einen vierten Platz vor und setzt somit ein neues Bestergebnis in der Vereinsgeschichte
+
+\newpage
+
+\section{Uerdinger waren die beste europäische Mannschaft}
+
+„Unter die Top fünf der Welt zu kommen, war für uns schon lange ein gesetztes Ziel – wir freuen uns daher riesig, dass es in diesem Jahr endlich geklappt hat. Gerade für die Sportler, die uns auf dieser Reise schon sehr lange begleiten und für den Erfolg mit verantwortlich sind, ist dies natürlich ein Meilenstein“, sagte Trainerin Oxana Prokoptschuk über die Mitglieder des seit 2010 bestehenden Teams, das bereits vier Deutsche Meistertitel sowie sechs Siege der Elite-Championship verbucht hat.
+
+Besser als die Dolphins Allstars waren nur ein Team aus den USA sowie zwei Teams aus Kanada. Damit konnten sich die Sportlerinnen also auch darüber freuen, in ihrem Level das beste europäische Team gestellt zu haben.
+
+Das zweite Uerdinger Team Dolphins Coed mit seinen Mitgliedern im Alter von 16 bis 30 Jahren sicherte sich in der Kategorie International Senior Large Coed Level 6 in der Vorrunde Platz neun. Im Finale reichte es am Ende trotz einiger Patzer noch für Platz 14. „Für das Team war es die erste Teilnahme in solch einem großen Rahmen – wir sind mehr als zufrieden sowohl mit der vorab gezeigten Trainingsleistung als auch mit der dann bewerteten Darbietung“, lobte Headcoach Marco Schulz die Performance der 22 Sportlerinnen und Sportler.
+
+\newpage
+\begin{eguation}
+p(x) = 4x^16 - 2x^6y + 640x^8y^3 +21x^2y\\
+\end{eguation}
+
+\begin{center}
+\begin{tabular}{c|c}
+     &  \\
+     & 
+\end{tabular}    
+\end{center}
+
+\end{document}
