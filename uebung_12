@@ -1,0 +1,39 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\title{uebung 12}
+\author{mschne64}
+\date{February 2021}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Einfuehrung}
+Wie kaum eine andere Kunst vermag es die Musik, Emotionen auszudrücken, darzustellen und auszulösen.
+
+Auf welche Art und Weise dies geschieht und was die biologischen und sozialen Funktionen dieser engen Verbindung von Musik und Emotionen sein könnten, ist von großem Interesse für die psychologische Grundlagenforschung.
+\subsection{Definition}
+Musikpsychologie ist im weitesten Sinne ein Unterpunkt der Psychologie, da sie u.a. psychische Vorgänge bei der musikalischen Produktion, Interpretation und Rezeption, die Beziehung zwischen Menschen, Musik und Umwelt sowie die emotionale Wirkung der Musik untersucht.
+
+Es gibt zudem folgende Formel, die eine Wellenlänge darstellt:
+
+$ f(x) = sin(x) $
+
+(Quelle: Leifi-Physik)
+
+\subsection{Historie}
+Bis zum Jahre 1879 war Musikpsychologie noch ein Teilgebiet der Philosophie. Bis Wilhelm Wundt schließlich durch die Eröffnung eines Laboratoriums in Leipzig, des ersten Psychologischen Instituts, die sich schon vorher ankündigende Trennung beider Disziplinen vollzog.
+
+\section{Freude in der Musik}
+IN der Musik werden zur Darstellung der Freude oft große Intervalle verwendet. Das bedeutet, dass der Höhenunterschied zweier neben -oder aufeinander klingenden Töne sehr groß ist oder anders ausgedrückt, sehr sprunghaft wirkt.
+
+(Quelle: Keynotes)
+
+\begin{tabular}{c|c}
+    \hline
+        &  Kodagenzskala \\
+    \hline
+        SK 1 & SE 2 & SO 4
+\end{tabular}
+\end{document}
