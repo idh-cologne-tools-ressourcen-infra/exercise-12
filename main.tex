@@ -1,0 +1,49 @@
+\documentclass[12]{scrartcl}
+\usepackage[utf8]{inputenc}
+
+
+\title{exercise12}
+\author{nwerner4}
+\date{February 2021}
+
+\begin{document}
+
+\tableofcontents
+\newpage
+\section{Introduction}
+Das Voynich-Manuskript (benannt nach Wilfrid Michael Voynich, der das Manuskript 1912 erwarb) ist ein handschriftliches mittelalterliches Schriftstück, das sich einmal im Besitz des Kaisers Rudolf II. des Heiligen Römischen Reichs befand. Das Manuskript befindet sich seit 1969 unter Katalognummer MS 408 im Bestand der Beinecke Rare Book and Manuscript Library der Yale University.
+
+
+Es wurden im Lauf der Zeit vielfache Ansätze zu einer „Entschlüsselung“ des Manuskripts vorgelegt, bislang konnte jedoch keiner dieser Ansätze fachlicher Untersuchung standhalten und es ist sogar unklar, ob der Text überhaupt einen sinnvollen Inhalt transportiert.[1] Im Manuskript vorhandene Abbildungen erinnern an botanische, anatomische und astronomische Zusammenhänge und wurden mit Sorgfalt gezeichnet, aufgrund des fehlenden Kontextes ist jedoch auch der Inhalt der Illustrationen letztlich Gegenstand von Spekulation
+
+\section{Geschichte}
+1962 datierte ein Expertenteam die Handschrift aufgrund von Material und Schreibstil auf etwa 1500 n. Chr.,[4] die Provenienz (die Folge der Vorbesitzer) konnte jedoch bislang nur lückenhaft und nicht mit Sicherheit ermittelt werden. Da der Inhalt bisher nicht entschlüsselt werden konnte, stützt die Datierung des Manuskripts sich lediglich auf die Illustrationen. Aufgrund der Hinweise aus Kleidung und Haartracht sowie einiger weiterer Anhaltspunkte wird das Manuskript von den meisten Experten in den Zeitraum zwischen 1450 und 1520 datiert.
+
+Erst 2009 wurden an Instituten in Chicago und Arizona kleinste Proben von vier verschiedenen Seiten untersucht. In einer Radiokarbonanalyse[5] konnte das Alter des verwendeten Pergaments mit großer Wahrscheinlichkeit auf den Zeitraum zwischen 1404 und 1438 bestimmt werden. Vermutlich sind alle Seiten gleichen Ursprungs.[2][3] Ferner haben Experten des McCrone-Forschungsinstitutes zu Chicago festgestellt, dass die Tinte nicht wesentlich später aufgetragen wurde.
+
+\section {Jürgen Hermes}
+Jürgen Hermes stellte 2012 in seiner Dissertation Textprozessierung – Design und Applikation eine Theorie zur Entschlüsselung des Voynich-Manuskripts vor.
+
+Seine Verschlüsselungstheorie geht davon aus, dass das Voynich-Manuskript mit einer Methode chiffriert wurde, die der Trithematischen Polygraphia (PIII-Methode) ähnelt. Bei dieser Verschlüsselungsart wird ein Codebuch erstellt, welches aus Listen besteht. In diesen Listen steht ein Phantasiewort bestehend aus Wortstamm + Endung für je einen Buchstaben im Klartext. Ändert sich das Suffix, handelt es sich um einen anderen Buchstaben. Eine Textentschlüsselung dieser Chiffrierungsart ist allerdings ohne das dazugehörige Codebuch kaum möglich.
+
+Davon ausgehend versuchte Hermes ein potentielles Codebuch zu rekonstruieren. Zur Ermittlung der Endungen im Text wurde eine graphemische Methode angewandt (Minimalpaarfindung + Clusterverfahren (K-Means++)). Die morphemische Analyse sollte mögliche Stämme identifizieren (Keyword-Trees, Zerlegungsvariationssuche, Häufigkeitsanalyse). Aus seiner Analyse schloss Hermes, dass das Voynich-Manuskript durch eine PIII-ähnliche Methode verschlüsselt worden sein könnte. Bei beiden Verfahren wies der Text des Voynich-Manuskripts mehr Ähnlichkeiten mit dem PIII-generierten Text auf als mit dem natürlich-sprachlichen Text.
+
+\section{TF IDF}
+Das Tf-idf-Maß (von englisch term frequency ‚Vorkommenshäufigkeit‘ und inverse document frequency ‚inverse Dokumenthäufigkeit‘) ist ein statistisches Maß, das im Information Retrieval zur Beurteilung der Relevanz von Termen in Dokumenten einer Dokumentenkollektion eingesetzt wird.
+
+Mit der so errechneten Gewichtung eines Wortes bezüglich des Dokuments, in welchem es enthalten ist, können Dokumente als Suchtreffer einer wortbasierten Suche besser in der Trefferliste angeordnet werden, als es beispielsweise über die Termfrequenz allein möglich wäre.
+\[tfidf_{d,t}= tf_{t,d} \cdot log \frac{N}{df_t} \]
+
+\section {Tabelle}
+\begin{center}
+\begin{tabular}{ |c|c|c| } 
+ \hline
+ ich & mag & LaTeX \\ 
+ das & macht & spaß \\ 
+ ju & huuu & uuu \\ 
+ \hline
+\end{tabular}
+\end{center}
+    
+
+\end{document}
