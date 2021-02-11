@@ -1,0 +1,34 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+
+\title{Graph}
+\author{bjenne}
+\date{February 2021}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Einfuehrung}
+Als Funktionsgraph oder kurz Graph (seltener: Funktionsgraf oder Graf) einer Funktion f bezeichnet man in der Mathematik die Menge aller geordneten Paare  aus den Elementen x der Definitionsmenge und den zugehörigen Funktionswertenf(x).
+Mitunter können diese Paare als Punkte in der Zeichenebene oder im Anschauungsraum interpretiert werden, sie werden auch Kurve, Kurvenverlauf oder ebenfalls Funktionsgraph genannt.
+
+(Quelle: Leifi-Physik)
+
+\subsection{Definition}
+Der Graph einer Funktion  f:  D -> Zf:D -> Z mit Definitionsmenge D und Zielmenge Z ist die Menge.
+
+ Der Graph ist somit eine spezielle Teilmenge des kartesischen Produkts aus Definitions- und Zielmenge. Er besteht aus allen Paaren, bei denen die erste Komponente ein Element der Definitionsmenge und die zweite Komponente das diesem Element durch die Funktion zugeordnete Element der Zielmenge ist.
+
+(Quelle: wikipedia)
+
+
+\subsection{elliptisches Paraboloid}
+
+\begin{tabular}{c|c}
+    \hline
+        f(x, y)= x²*y²
+\end{tabular}
+
+
+\end{document}
