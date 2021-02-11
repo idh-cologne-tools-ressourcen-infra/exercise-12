@@ -1,0 +1,94 @@
+%titlepage as document option possible
+\documentclass[
+		titlepage=false,
+		bibliography=totoc,
+		11pt,
+		twocolumn=false]
+		{scrartcl}
+
+%--Eingebundene Pakete------------------------------------------------
+ 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{blindtext}
+\usepackage{hyperref}
+
+\usepackage{comment}
+
+% Language Definitions for SPARQL
+\lstdefinelanguage{sparql}{
+%morecomment=[l][\color{red}]{\#},
+%morestring=[b][\color{blue}]\",
+morekeywords={ SELECT,CONSTRUCT,DESCRIBE,ASK,WHERE,FROM,NAMED,PREFIX,BASE,OPTIONAL,FILTER,GRAPH,LIMIT,OFFSET,SERVICE,UNION,EXISTS,NOT,BINDINGS,MINUS,a},
+sensitive=true
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%--Dokumenteinstellungen----------------------------------------------
+
+\setkomafont{disposition}{\normalfont\bfseries}
+%\bibliography{quellen}
+
+%--Anfang des Dokuments---------------------------------------------
+\begin{document}
+
+%--Titelseite und Inhaltsverzeichnis----------------------------------
+%\maketitle
+\maketitle\thispagestyle{}
+
+\pagebreak
+\tableofcontents\thispagestyle{empty}
+
+\listoffigures    %Abbildungsverzeichnis
+\lstlistoflistings
+\newpage
+\setcounter{page}{1}
+
+%--Beginn des eigentlichen Inhalts----------------------------------
+
+
+\input{Text}
+
+%--Literaturverzeichnis-----------------------------------------------
+\pagebreak
+\bibliography{quellen}
+
+%\printbibliography
+
+%--Anhang--------------------------------------------------------------
+\pagebreak
+\appendix
+
+\end{document}
